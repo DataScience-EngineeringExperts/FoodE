@@ -1,4 +1,4 @@
-# README for Open Source Project: Meal Planner Algorithm
+# Open Source Project: FoodE Meal Planner Algorithm
 
 ## `meal_generator.py`
 
