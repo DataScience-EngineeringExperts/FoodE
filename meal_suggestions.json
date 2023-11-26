@@ -1,0 +1,32 @@
+{
+  "suggestions": [
+    {
+      "meal": "item1",
+      "sides": ["item2", "item3"]
+    },
+    {
+      "meal": "item4",
+      "sides": ["item5", "item6"]
+    },
+    {
+      "meal": "item7",
+      "sides": ["item8", "item9"]
+    },
+    {
+      "meal": "item10",
+      "sides": ["item11", "item12"]
+    },
+    {
+      "meal": "item13",
+      "sides": ["item14", "item15"]
+    },
+    {
+      "meal": "item16",
+      "sides": ["item17", "item18"]
+    },
+    {
+      "meal": "item19",
+      "sides": ["item20", "item21"]
+    }
+  ]
+}
